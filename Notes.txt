@@ -1,0 +1,3 @@
+Strut length: 202.187 mm
+Strut final length: 252.838 mm
+Bone length: 300.545 mm

@@ -1,0 +1,217 @@
+fileFormatVersion: 2
+guid: 4d6e5696d8ac9e949b175ca6a8fa1784
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: 7232726756343906994
+    second: Armature|Arm1L
+  - first:
+      74: -6316091934671604872
+    second: Armature|Arm1R
+  - first:
+      74: 2712411825198099493
+    second: Armature|Arm2L
+  - first:
+      74: -7444120427186603158
+    second: Armature|Arm2R
+  - first:
+      74: -7053739428929018165
+    second: Armature|Arm3L
+  - first:
+      74: -36787911896810132
+    second: Armature|Arm3R
+  - first:
+      74: 4781951162920444690
+    second: Armature|ArmatureAction
+  - first:
+      74: -6638482092375399876
+    second: Armature|ArmNone
+  - first:
+      74: 2916311828137562732
+    second: Armature|BaseNone
+  - first:
+      74: 2509162419165273434
+    second: Armature|BaseUp
+  - first:
+      74: -4434203089636423583
+    second: Armature|High-Arm1L.001
+  - first:
+      74: 6424322210189307594
+    second: Armature|High-Arm1L.002
+  - first:
+      74: 6729344583517692742
+    second: Armature|High-Arm1R.001
+  - first:
+      74: -6491134514246423415
+    second: Armature|High-Arm1R.002
+  - first:
+      74: -1133659650602804654
+    second: Armature|High-Arm2L.001
+  - first:
+      74: -6953917370430175887
+    second: Armature|High-Arm2L.002
+  - first:
+      74: -6810115461851016667
+    second: Armature|High-Arm2R.001
+  - first:
+      74: -4571023048901406157
+    second: Armature|High-Arm2R.002
+  - first:
+      74: -3244483223372621954
+    second: Armature|High-Arm3L.001
+  - first:
+      74: 5840541629045950488
+    second: Armature|High-Arm3L.002
+  - first:
+      74: -6269467456952990032
+    second: Armature|High-Arm3R.001
+  - first:
+      74: -7120138108759436946
+    second: Armature|High-Arm3R.002
+  - first:
+      74: 7180650430129796070
+    second: Armature|Low-Arm1L.001
+  - first:
+      74: -5026494824075139321
+    second: Armature|Low-Arm1L.002
+  - first:
+      74: -2493242122617514012
+    second: Armature|Low-Arm1R.001
+  - first:
+      74: 6079689057219037444
+    second: Armature|Low-Arm1R.002
+  - first:
+      74: -7246961149832382922
+    second: Armature|Low-Arm2L.001
+  - first:
+      74: -4557472512773868417
+    second: Armature|Low-Arm2L.002
+  - first:
+      74: -180168939742618356
+    second: Armature|Low-Arm2R.001
+  - first:
+      74: -7464119760629700654
+    second: Armature|Low-Arm2R.002
+  - first:
+      74: -375501648311577596
+    second: Armature|Low-Arm3L.001
+  - first:
+      74: 8647732369295728182
+    second: Armature|Low-Arm3L.002
+  - first:
+      74: -3586807999518301371
+    second: Armature|Low-Arm3R.001
+  - first:
+      74: 4895199367514905433
+    second: Armature|Low-Arm3R.002
+  - first:
+      74: -9057056104059030218
+    second: Armature|Low-ArmL.002
+  - first:
+      74: 1562896803373411279
+    second: Armature|RotateCWLow
+  - first:
+      74: 3823239987620180016
+    second: Armature|RotateCWLow.001
+  - first:
+      74: 1410728449944058331
+    second: Empty|Arm1L
+  - first:
+      74: -4808257657724689040
+    second: Empty|RotateCWLow
+  - first:
+      74: -6141878050291717412
+    second: Tibia:1.001|RotateCWLow
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
